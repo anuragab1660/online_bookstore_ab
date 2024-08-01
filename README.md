@@ -48,7 +48,7 @@ This project is an online bookstore application that allows users to browse book
 1. **Clone the Repository**
 
    \`\`\`bash
-   git clone https://github.com/yourusername/online-bookstore.git
+   git clone https://github.com/anuragab1660/online-bookstore.git
    cd online-bookstore
    \`\`\`
 
@@ -158,4 +158,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact [Your Name](mailto:your.email@example.com).
+For any inquiries, please contact Anurag Barkhade anuragab1660@gmail.com.
